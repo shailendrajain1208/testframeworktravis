@@ -10,6 +10,8 @@ end
 
 Given(/^travis test$/) do
 puts "test is done"
+puts "test is done"
+puts "test is done"
 
 end
 
