@@ -6,3 +6,12 @@ end
 Then(/^click on UICatalog button$/) do
   on(UICatalog).click_uicatalog
 end
+
+
+Given(/^travis test$/) do
+puts "test is done"
+
+end
+
+
+
